@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\bin\Debug\netcoreapp3.1\NYT_API.Data.deps.json
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\bin\Debug\netcoreapp3.1\NYT_API.Data.dll
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\obj\Debug\netcoreapp3.1\NYT_API.Data.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\obj\Debug\netcoreapp3.1\NYT_API.Data.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\obj\Debug\netcoreapp3.1\NYT_API.Data.AssemblyInfo.cs
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\bin\Debug\netcoreapp3.1\NYT_API.Data.runtimeconfig.json
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\bin\Debug\netcoreapp3.1\NYT_API.Data.runtimeconfig.dev.json
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\obj\Debug\netcoreapp3.1\NYT_API.Data.genruntimeconfig.cache
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\bin\Debug\netcoreapp3.1\NYT_API.Data.pdb
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\obj\Debug\netcoreapp3.1\NYT_API.Data.dll
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\obj\Debug\netcoreapp3.1\NYT_API.Data.pdb
+C:\Users\PC\source\repos\NYT_API\NYT_API.Data\obj\Debug\netcoreapp3.1\NYT_API.Data.csproj.CoreCompileInputs.cache
